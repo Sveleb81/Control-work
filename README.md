@@ -42,7 +42,7 @@ for (int i = 0; i < arrLength; i++) {
 Array.Resize(ref resultArr, resultArrLength);
 ```
 
-1. **Выводим получившийся массив:**
+4. **Выводим получившийся массив:**
 
 ```java
 string strResultArr = "[";
