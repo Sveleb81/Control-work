@@ -1,0 +1,15 @@
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\bin\Debug\net6.0\Control-work.exe
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\bin\Debug\net6.0\Control-work.deps.json
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\bin\Debug\net6.0\Control-work.runtimeconfig.json
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\bin\Debug\net6.0\Control-work.dll
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\bin\Debug\net6.0\Control-work.pdb
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\obj\Debug\net6.0\Control-work.csproj.AssemblyReference.cache
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\obj\Debug\net6.0\Control-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\obj\Debug\net6.0\Control-work.AssemblyInfoInputs.cache
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\obj\Debug\net6.0\Control-work.AssemblyInfo.cs
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\obj\Debug\net6.0\Control-work.csproj.CoreCompileInputs.cache
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\obj\Debug\net6.0\Control-work.dll
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\obj\Debug\net6.0\refint\Control-work.dll
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\obj\Debug\net6.0\Control-work.pdb
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\obj\Debug\net6.0\Control-work.genruntimeconfig.cache
+C:\Users\Общий\Desktop\GeecBrains Учеба\Control-work\obj\Debug\net6.0\ref\Control-work.dll
